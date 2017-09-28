@@ -14,7 +14,7 @@ It is a Linear Regression based Recommender Engine. Cost function used in the ex
 
 Here x's and theta's are user-features and movie-features respectively.
 
-Gradient Descent Optimizer is used to optimize the cost function.
+Gradient Descent Optimizer was used to optimize the cost function.
 
 ## Evaluation
 Model Evaluation was done using RMSE (root-mean-square error).
